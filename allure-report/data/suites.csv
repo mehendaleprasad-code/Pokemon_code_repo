@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","128","test_json_api[metapod]","","2026-05-20","failed","2026-05-20","","test_json_api","",""
+"","671","test_json_api[weedle]","","2026-05-20","passed","2026-05-20","","test_json_api","",""
+"","753","test_json_api[bulbasaur]","","2026-05-20","passed","2026-05-20","","test_json_api","",""
+"","473","test_json_api[ditto]","","2026-05-20","failed","2026-05-20","","test_json_api","",""
+"","604","test_json_api[wartortle]","","2026-05-20","passed","2026-05-20","","test_json_api","",""
